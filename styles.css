@@ -1,0 +1,18 @@
+button.btnsize{
+    height:45px;
+    width:100px;
+	color:Blue; 
+}
+.resizedTextbox{
+    width: 600px;
+    height: 40px;
+}
+
+#searchbox {
+    margin: 0 auto;
+    text-align: left;
+}
+#the_div {
+    text-align: center;
+    margin: 15% 20%;
+}
